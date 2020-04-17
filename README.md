@@ -7,7 +7,7 @@ The idea is to try to automate tests that are repetitive but across multiple pla
 - object definition
 - standard I/O
     USECASE:
-        - Login / logou,
+        - Login / logout,
         - Forgot password,
         - User / password missmatch,
         - New user registration,
