@@ -6,6 +6,12 @@ The idea is to try to automate tests that are repetitive but across multiple pla
 ### android
 - object definition
 - standard I/O
+    USECASE:
+        - Login / logout
+        - Forgot password
+        - User / password missmatch
+        - New user registration
+        - General input / output (tweakable)
 
 ### firmware
 - parse logs
